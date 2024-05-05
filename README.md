@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">✨Welcome to my profile!</h1>
 
-<!--
-**Xoisayuki/Xoisayuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2><a href="#"><img src="https://cdn-icons-png.flaticon.com/512/190/190982.png" width="40px" height="40px"/></a> Github Stats</h2>
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=xoisayuki&show_icons=true&theme=synthwave" alt="Xoisayuki's Github stats"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoisayuki&layout=compact&theme=synthwave" alt="Top languages"/></a>
+
+<hr>
+
+<div align="center">
+  <a href="https://discord.com/users/539505462517825577">
+    <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="Discord" title="Xoisaya" height="50px" width="50px"/>
+  </a>
+  
+</div>
